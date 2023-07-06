@@ -1,12 +1,12 @@
 
-# State Space Control
+# Modern Control Fundamentals Course
 
-I have made some simulations in state space for a third order transfer function
+I have made some simulations in Matlab Environment for a specific second-order transfer function. and also Simulated a Two Wheel Self Balancing solution.
 
 
-## Descriptions
+## Transfer Function
 
-This is a simulation project for Modern Control course. I have made some test for like, controllability and Observability and have used Observers and State Feedback for control and regulator. and finally tried to track my setpoints.
+for the given TF, I have written a simple state space. then checked observability, controllablity etc. and made some observations, tracking and state feedback gain to reach my setpoint. and also tested my controller for disturbance effect.
 
 ## Pictures
 
